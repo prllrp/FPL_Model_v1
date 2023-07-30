@@ -19,7 +19,15 @@ The model consisted of a Multilayer Perceptron Classifer (MLP) with 1500 nodes a
 ## Results
 The model was scored with a test data set at r^2: 0.722 and Loss: 0.5710. The model was used to predict at multiple different quantiles above 70% and the players who were most commonly predicted to be included in the quantile over the next five gameweeks were selected to form a team.
 The squad selected for the start of the 2023/24 season is as follows:
+
+
 GK: Andre Onana, Fraser  Forster
+
+
 DEF: Trent Alexander Arnold, Kieran Trippier, Antonee Robinson, Luke Shaw, Ezri Konsa
+
+
 MID: Bruno Fernandes, Martin Odegaard, Pascal Gross, Douglas Luiz, Bryan Mbeumo
+
+
 FWD: Harry Kane, Ollie Watkins, Yoane Wissa 
